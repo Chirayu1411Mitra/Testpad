@@ -1,0 +1,5 @@
+Introduction -1 
+ans - java is just like C++, but implemented in different way to make it portable and universal
+
+Introduction -2
+ans - MyProgram.java is a source code fiel typed by the programmer, and MyProgram.class is a compiled executable class file that is run by the JVM
