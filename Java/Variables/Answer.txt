@@ -1,0 +1,46 @@
+Variable-1
+ans-  Annual Expenses
+      G4
+      _average
+      ABC
+
+Variable-2 
+ans- Real numbers are represented as imprecise floating-point numbers in the computer, and the limited precision led to a roundoff error
+
+Expressions -1 
+ans  1.
+name    age     height
+Amit    25      59
+Gopal   32      56
+Arun    35      60
+
+2.
+Naveen is 61
+The empty string is.
+
+3.
+a       b       c
+C:
+in      he downward spiral
+
+
+Expression -2
+
+Dear -Codequotient-,
+
+        Your courses are wonderful to me.  Isn't it
+
+Sincerely,
+Gopal & Amit
+
+Expressions -3 
+
+Dear -Programmer-,
+
+I am a computer software, 
+which understands only binary language
+So, kindly provide input in binary only.
+
+
+Sincerely
+JVM
