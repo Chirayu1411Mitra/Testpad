@@ -34,3 +34,47 @@ Arrays -5
 10 11 14 19 26
 10 10 10 10 10
 
+
+Enhanced for loop-1
+No
+Yes
+Yes
+
+Enhanced for loop-2
+No
+Yes
+No
+No
+
+2-dimensional Array-1
+0
+1
+2
+1
+2
+3
+
+2-dimensional Array-2
+3 2 3
+3 4 4
+
+2-dimensional Array-3
+1 2 3 
+4 5 
+1 5 9 
+
+21 32 
+14 51 
+59 
+
+2-Dimensional Array Example-2
+4
+5
+5
+5
+6
+6
+6
+7
+7
+
