@@ -1,6 +1,3 @@
-import java.util.Scanner;
-public class Add_one_to_each_digit{
-public static void main(String[] args){
  Scanner input = new Scanner(System.in);
     int n;
     n=input.nextInt();
@@ -14,5 +11,5 @@ public static void main(String[] args){
     ones=(ones+1)%10;
     int result= thousand*1000+hundred*100+tens*10+ones;
     System.out.println(result);
-}
-}
+
+
