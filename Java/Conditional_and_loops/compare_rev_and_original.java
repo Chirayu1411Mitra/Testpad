@@ -1,4 +1,6 @@
-        Scanner input=new Scanner(System.in);
+ public static void main(String[] args)
+    {
+          Scanner input=new Scanner(System.in);
         int n=input.nextInt();
         for(int i=0;i<n;i++){
         int m;
@@ -11,6 +13,7 @@
             System.out.println("Not Equal");  
         }
         }
+    }
     
     static int rev(int n){
         int rev=0;
@@ -21,5 +24,5 @@
             n=n/10;
         }
         return rev;
+    
     }
-
