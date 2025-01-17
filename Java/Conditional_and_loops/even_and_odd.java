@@ -1,6 +1,3 @@
-import java.util.Scanner;
-public class even_and_odd{
-	public static void main(String [] args){
 		Scanner input=new Scanner(System.in);
        		 int n;
        		 n=input.nextInt();
@@ -10,8 +7,3 @@ public class even_and_odd{
        		 else{
             		System.out.println("Odd");
         	}
-
-
-	}
-
-}
