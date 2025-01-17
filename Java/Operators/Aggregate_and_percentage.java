@@ -1,6 +1,3 @@
-import java.util.Scanner;
-public class Aggregate_and_percentage{
-	public static void main(String[] args){
      Scanner input=new Scanner(System.in);
     int M1;
     M1=input.nextInt();
@@ -16,6 +13,3 @@ public class Aggregate_and_percentage{
       int percent=((Agg*100)/500);
       System.out.print(Agg+" ");
       System.out.print(percent); 
-}
-
-}
