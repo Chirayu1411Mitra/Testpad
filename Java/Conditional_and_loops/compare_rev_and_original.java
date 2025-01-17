@@ -1,6 +1,3 @@
-import java.util.Scanner;
-public class compare_rev_and_original{
-  public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         int n=input.nextInt();
         for(int i=0;i<n;i++){
@@ -14,7 +11,7 @@ public class compare_rev_and_original{
             System.out.println("Not Equal");  
         }
         }
-    }
+    
     static int rev(int n){
         int rev=0;
         int digit;
@@ -25,4 +22,4 @@ public class compare_rev_and_original{
         }
         return rev;
     }
-}
+
