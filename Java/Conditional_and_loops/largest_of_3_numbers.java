@@ -1,6 +1,3 @@
-import java.util.Scanner;
-public class largest_of_3_numbers{
-public static void main(String [] args){
      Scanner input = new Scanner(System.in);
     int max;
     int a;
@@ -19,5 +16,5 @@ public static void main(String [] args){
          max=c;
      }
         System.out.println(max);
-	}
-}
+	
+
