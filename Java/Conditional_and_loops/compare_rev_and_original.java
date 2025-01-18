@@ -1,4 +1,8 @@
- public static void main(String[] args)
+import java.util.Scanner;
+// Other imports go here// Do NOT change the class name
+class Main
+{
+    public static void main(String[] args)
     {
           Scanner input=new Scanner(System.in);
         int n=input.nextInt();
@@ -14,7 +18,6 @@
         }
         }
     }
-    
     static int rev(int n){
         int rev=0;
         int digit;
@@ -24,5 +27,5 @@
             n=n/10;
         }
         return rev;
-    
     }
+}

@@ -1,4 +1,10 @@
-     Scanner input = new Scanner(System.in);
+import java.util.Scanner;
+// Other imports go here// Do NOT change the class name
+class Main
+{
+    public static void main(String[] args)
+    {
+        Scanner input = new Scanner(System.in);
     int max;
     int a;
     int b;
@@ -16,5 +22,5 @@
          max=c;
      }
         System.out.println(max);
-	
-
+    }
+}

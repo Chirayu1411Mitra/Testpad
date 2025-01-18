@@ -1,11 +1,11 @@
-import  java.util.Scanner
-public class Max_element{
-	static int Max(int[] arr){
-	int max=Integer.MIN_VALUE;
-	for(int i=0;i<)	
-}	
-public static void main(String[] args){
-	
-
-}
+class Result {
+  static int maxElement(int[] arr, int N) {
+    int max=Integer.MIN_VALUE;
+     for(int i=0;i<N;i++){
+         if(arr[i]>max){
+             max=arr[i];
+         }
+     }
+      return max;
+  }
 }

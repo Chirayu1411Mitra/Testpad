@@ -1,4 +1,9 @@
-     Scanner input=new Scanner(System.in);
+import java.util.Scanner;
+class Main
+{
+  public static void main(String[] args)
+  {
+      Scanner input=new Scanner(System.in);
     int M1;
     M1=input.nextInt();
     int M2;
@@ -13,3 +18,5 @@
       int percent=((Agg*100)/500);
       System.out.print(Agg+" ");
       System.out.print(percent); 
+      }
+}

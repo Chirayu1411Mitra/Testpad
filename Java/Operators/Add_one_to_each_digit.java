@@ -1,4 +1,9 @@
- Scanner input = new Scanner(System.in);
+import java.util.Scanner;
+class Main
+{
+  public static void main(String[] args)
+  {
+    Scanner input = new Scanner(System.in);
     int n;
     n=input.nextInt();
     int thousand = n/1000;
@@ -11,5 +16,5 @@
     ones=(ones+1)%10;
     int result= thousand*1000+hundred*100+tens*10+ones;
     System.out.println(result);
-
-
+  }
+}
