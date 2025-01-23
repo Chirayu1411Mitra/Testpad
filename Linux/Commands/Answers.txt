@@ -1,7 +1,7 @@
 man command 
 ans= -i
 
-info command 
+info command  
 ans = 
 1.  info ls
 2   info cat
