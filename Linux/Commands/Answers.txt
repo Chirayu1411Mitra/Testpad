@@ -1,4 +1,4 @@
-man command 
+man command  
 ans= -i
 
 info command  
