@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+class Main {
+
+    public static void printPrimeFactors(int n, int divisor) {
+        if (divisor > n) {
+            return;
+        }
+        
+        if (n % divisor == 0) {
+            System.out.println(divisor);
+            printPrimeFactors(n / divisor, divisor);
+        } else {
+            printPrimeFactors(n, divisor + 1);
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        printPrimeFactors(n, 2);
+    }
+}
